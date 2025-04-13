@@ -9,3 +9,4 @@ frontend:
 
 backend:
     - not sure yet
+    - made to run in a container
